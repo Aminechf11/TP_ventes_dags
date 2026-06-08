@@ -104,14 +104,7 @@ Meilleure vente : ÉCRAN (400.0 €)
 .
 ├── dags/
 │   └── sales_dag.py
-├── sales_pipeline.py
-├── run_pipeline.py
-├── screenshots/
-│   ├── dag_graph.png
-│   ├── extract.png
-│   ├── validate.png
-│   ├── transform.png
-│   └── report.png
+│   └──sales_pipeline.py
 └── README.md
 ```
 
